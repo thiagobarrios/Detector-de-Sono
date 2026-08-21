@@ -1,7 +1,0 @@
-Opencv>=latest
-NumPy>=latest
-playsound
-Scipy
-dlib
-CMake
-face-recognition
