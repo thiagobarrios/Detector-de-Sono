@@ -7,27 +7,22 @@ Bilbiotecas Necessárias:
 4. CMake
 5. face-recognition
 
-===============
-===Instalar PIP===
+Instalar PIP:
 python -m ensurepip --upgrade
 py get-pip.py
 
-===============
-===Instalar Dlib===
+Instalar Dlib:
 python --version 
 python -m pip install dlib-xxx.whl (escolha de acordo com sua versão do python)
 
-==================
-===Instalar Opencv===
+Instalar Opencv:
 python -m ensurepip --upgrade
 python -m pip install opencv-python
 
-===================
-===Instalar cmake====
+Instalar cmake:
 python -m pip install cmake
 
-==========================
-===Instalar Face Recognition===
+Instalar Face Recognition
 python -m pip install face_recognition
 
 Arquivo necessário:
