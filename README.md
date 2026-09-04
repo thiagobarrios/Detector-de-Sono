@@ -22,7 +22,7 @@ python -m pip install opencv-python
 Instalar cmake:
 python -m pip install cmake
 
-Instalar Face Recognition
+Instalar Face Recognition:
 python -m pip install face_recognition
 
 Arquivo necessário:
