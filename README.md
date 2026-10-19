@@ -8,22 +8,28 @@ Bilbiotecas Necessárias:
 5. face-recognition
 
 Instalar PIP:
+```sh
 python -m ensurepip --upgrade
 py get-pip.py
-
-Instalar Dlib:
+```
+Instalar Dlib (escolha de acordo com sua versão do python):
+```sh
 python --version 
-python -m pip install dlib-xxx.whl (escolha de acordo com sua versão do python)
-
+python -m pip install dlib-xxx.whl
+```
 Instalar Opencv:
+```sh
 python -m ensurepip --upgrade
 python -m pip install opencv-python
-
+```
 Instalar cmake:
+```sh
 python -m pip install cmake
-
+```
 Instalar Face Recognition:
+```sh
 python -m pip install face_recognition
+```
 
 Arquivo necessário:
 https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat
